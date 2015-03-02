@@ -16,5 +16,6 @@ http://youtu.be/a7rvuPGXWaE
 </br>
 ----------------------
 </br>
-The OpenShift `jbossas` cartridge documentation can be found at:
+<h5>The OpenShift `jbossas` cartridge documentation can be found at:</h5>
+</br>
 http://openshift.github.io/documentation/oo_cartridge_guide.html#jbossas
